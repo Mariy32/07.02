@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+   padding-top: 40; 
+   padding-left: 375;
+   padding-bottom: 300;
+} 
+.top{
+   padding-top: 223; 
+}
+.button_header{
+   margin: 60;
+   padding: 170;
+}
+.img_header{
+   margin: 50;
+   padding: 40;
+}
+.img_top{
+   margin-right: 63.98;
+   padding-top: 162.71;
+   padding-left: 935.94;
+   padding-right: 439.25;
+   background: url(pngfind.png);
+}    
+h1_header{
+   margin: 0;
+   padding: 400;
+}
+.topstart{
+   margin: 30;
+   padding: 40;
+}
+.topwatch {
+   margin: 30;
+   padding: 40;
+}
